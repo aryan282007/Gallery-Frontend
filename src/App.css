@@ -6,8 +6,6 @@ html, body, #root {
   min-height: 100%;
   width: 100%;
   overflow-x: hidden;
-  margin-left: 20px;
-  margin-right: 0;
 }
 
 body {
