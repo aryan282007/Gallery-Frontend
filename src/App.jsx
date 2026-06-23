@@ -31,7 +31,7 @@ function App() {
 
   return (
     <>
-     <div className='bg-black h-screen overflow-auto p-4 text-white '>
+     <div className='bg-black h-screen overflow-y-auto overflow-x-hidden app-scroll p-4 text-white'>
       <div className='flex flex-wrap gap-4'>
         {printUserData}
       </div>
